@@ -1,4 +1,4 @@
-#I Created a ReactJS character counting web application with implementation including character count, highlight most frequent characters, handling edge cases, and high scalability.
+# I Created a ReactJS character counting web application with implementation including character count, highlight most frequent characters, handling edge cases, and high scalability.
 
 Demo of application: 
 
