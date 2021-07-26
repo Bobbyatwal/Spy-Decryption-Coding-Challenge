@@ -1,3 +1,8 @@
+#I Created a ReactJS character counting web application with implementation including character count, highlight most frequent characters, handling edge cases, and high scalability.
+
+Demo of application: 
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
