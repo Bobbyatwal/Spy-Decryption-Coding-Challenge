@@ -1,6 +1,6 @@
 # I Created a ReactJS character counting web application with implementation including character count, highlight most frequent characters, handling edge cases, and high scalability.
 
-Demo of application: 
+Demo of application: https://amazing-cori-314743.netlify.app/
 
 
 # Getting Started with Create React App
